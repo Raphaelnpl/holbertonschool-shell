@@ -1,0 +1,2 @@
+#!/bin/bash
+mv -ar .html /root/holbertonschool-shell/basics
