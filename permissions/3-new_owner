@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp  "root" "hello" "betty"
+sudo chgrp betty hello
