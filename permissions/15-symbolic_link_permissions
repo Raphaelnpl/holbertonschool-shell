@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff "$(pwd)/_hello"
+sudo chown vincent:staff ./_hello
