@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -r vincent hello sudo chown -r : staff hello
+chown -hR vincent hello 
