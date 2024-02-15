@@ -1,2 +1,2 @@
 #!/bin/bash
-passwd find /etc/passwd
+find passwd (5) /etc/passwd
