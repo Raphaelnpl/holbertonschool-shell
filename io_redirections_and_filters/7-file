@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Holberton School" > fichier.txt
+echo "Holberton School" | tee fichier.txt
