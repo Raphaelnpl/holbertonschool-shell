@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod ls -d  777
+sudo chmod ls -c  777
