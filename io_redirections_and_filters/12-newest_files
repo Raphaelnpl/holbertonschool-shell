@@ -1,0 +1,2 @@
+#!/bin/bash
+find . ls -u 10 -type f | ls -lt
