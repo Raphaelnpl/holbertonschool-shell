@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST = "School"; print(BEST)
+export HOLBERTON=Betty
